@@ -1,0 +1,33 @@
+# Alok Biswas - Graphic Designer Portfolio
+# SEO-optimized robots.txt
+
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /private
+Disallow: /temp
+
+# Crawl delay
+Crawl-delay: 0
+
+# Request rate
+Request-rate: 30/1m
+
+# Sitemap location
+Sitemap: https://badhonmondol.github.io/Alok.biswas/sitemap.xml
+
+# Specific rules for Google
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 0
+
+# Specific rules for Bing
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 1
+
+# Block bad bots
+User-agent: MJ12bot
+User-agent: AhrefsBot
+User-agent: SemrushBot
+Disallow: /
