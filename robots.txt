@@ -14,7 +14,7 @@ Crawl-delay: 0
 Request-rate: 30/1m
 
 # Sitemap location
-Sitemap: https://badhonmondol.github.io/Alok.biswas/sitemap.xml
+Sitemap: https://github.com/Alokbiswas0177/alok_biswas/sitemap.xml
 
 # Specific rules for Google
 User-agent: Googlebot
