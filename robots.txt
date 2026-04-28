@@ -36,4 +36,4 @@ User-agent: DotBot
 Disallow: /
 
 # Sitemap location for search engines
-Sitemap: https://alok-biswas-com.github.io/alok_biswas/sitemap.xml
+Sitemap: https://Alok-biswas-com.github.io/alok-biswas/sitemap.xml
